@@ -7,6 +7,11 @@ import java.util.ArrayList;
 
 class MainWindowTest {
 
+    // BOITE NOIRE
+
+    // Tests ici
+
+    // BOITE BLANCHE
     @Test
     void testConvertWithValidCurrencies() {
         ArrayList<Currency> currencies = Currency.init(); // currencies.size() > 0
