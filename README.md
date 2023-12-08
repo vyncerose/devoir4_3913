@@ -1,5 +1,3 @@
-!!README du projet currency-converter-in-java plus bas!!
-
 # 3913_Devoir4
 
 Membres de l'équipe:
