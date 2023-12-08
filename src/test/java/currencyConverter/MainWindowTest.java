@@ -73,7 +73,6 @@ class MainWindowTest {
             assertEquals(0, converted, 0.0, "Conversion should fail for invalid amount: " + amount);
         }
     }
-    // Tests ici
 
     // BOITE BLANCHE
     @Test

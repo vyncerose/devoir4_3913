@@ -1,3 +1,19 @@
+!!README du projet currency-converter-in-java plus bas!!
+
+# 3913_Devoir4
+
+Membres de l'équipe:
+Vyncent Larose (20189960)
+Haunui Louis (20189376)
+
+GitHub: https://github.com/vyncerose/devoir4_3913
+
+*Note:* Nous avions commencé le devoir sur un autre repo: https://github.com/vyncerose/3913_TP4
+Afin d'utiliser la bonne structure pour utiliser JUnit, il était plus simple de recommencer. Ce dernier ne devrait pas être
+évalué, mais nous le fournissons ici afin de montrer que nous avions commencé à travailler sur le devoir plus tôt.
+
+
+
 # currency-converter-in-java
 
 
